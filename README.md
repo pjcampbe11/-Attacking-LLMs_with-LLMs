@@ -7,6 +7,7 @@
 This document will cover a few types of security assessments a Red Teamer can perform when attacking LLMs and some best practices 
 Bias and Fairness Assessment | Resistance to Misinformation | Adversarial Attack Simulation + Other examples with included probes 
 Keep in mind: context of the attack – LLMs attacking LLMs 
+
 ```
 Involves the use of one or more LLMs to probe, attack, and improve the security of another LLM 
 ```
